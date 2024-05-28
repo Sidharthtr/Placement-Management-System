@@ -16,11 +16,11 @@ approaches help achieve specific investment objectives. also, it will
 emphasize diversifying investments across various asset classes,
 sectors, and geographical regions. Diversification reduces the impact
 of market volatility and minimizes risks associated with concentrated
-holdings.
+holdings.</br>
 PMS allows investors to benefit from professional guidance. Portfolio
 managers expertise helps construct well-informed investment
 porEolios. Constructing an optimal investment portfolio requires time,
-knowledge, and risk assessment.
+knowledge, and risk assessment.</br>
 Novice investors may struggle to gauge their risk profile and select
 suitable investments. PMS constructs tailor-made porEolios based on
 individual investment horizons, risk tolerance, and taxation needs.
@@ -28,10 +28,10 @@ So, in this project, we are planning to build a Placement Management
 System (PMS), which will guide students, college authorities, and even
 companies to manage the placement process. we are building a better
 user interface using HTML, CSS, React JS Node JS and Express JS for the
-server side else MySql for database management.
+server side else MySql for database management.</br>
 The Placement Management System aims to enhance transparency,
 reduce manual paperwork, and foster efficient communication between students and companies. It provides a solid foundation for
-effective placement management.
+effective placement management.</br>
 
 REQUIREMENT SPECIFICATION
 -------------------------
