@@ -52,7 +52,10 @@ ER-DIAGRAM
 ----------
 ![ER-Diagram](https://github.com/Sidharthtr/Placement-Management-System/assets/129524598/8ca26515-cce0-4658-bd90-a7cfd0bfe95b)
 
+</br>
+
 Login information
+-
 Admin login information:
 
 Mail: sid@gmail.com
