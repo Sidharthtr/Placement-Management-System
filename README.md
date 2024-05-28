@@ -33,6 +33,20 @@ The Placement Management System aims to enhance transparency,
 reduce manual paperwork, and foster efficient communication between students and companies. It provides a solid foundation for
 effective placement management.
 
+REQUIREMENT SPECIFICATION
+-------------------------
+1. Frontend
+ • HTML
+ • CSS
+ • Javascript
+2. Backend and Database
+ • PHP
+ • MySql
+
+NOTE
+To run the project, we need to use XAMPP server which is required to
+create a local development environment with Apache, MySQL, and PHP, allowing us to build and test dynamic web applica?ons seamlessly
+before deploying them live.
 
 Login information
 Admin login information:
