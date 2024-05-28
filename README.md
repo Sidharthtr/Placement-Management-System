@@ -79,8 +79,8 @@ Password: ankur@123
 
 CONTRIBUTERS
 ------------
- • SIDHARTH T R</br>
- • ANKUR JAT</br>
- • SANDEEP R</br>
- • VISWENDRA SINGH</br>
+ • SIDHARTH T R
+ • ANKUR JAT
+ • SANDEEP R
+ • VISWENDRA SINGH
 
