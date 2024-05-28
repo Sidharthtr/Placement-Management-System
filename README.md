@@ -48,6 +48,10 @@ To run the project, we need to use XAMPP server which is required to
 create a local development environment with Apache, MySQL, and PHP, allowing us to build and test dynamic web applica?ons seamlessly
 before deploying them live.
 
+ER-DIAGRAM
+----------
+![ER-Diagram](https://github.com/Sidharthtr/Placement-Management-System/assets/129524598/8ca26515-cce0-4658-bd90-a7cfd0bfe95b)
+
 Login information
 Admin login information:
 
