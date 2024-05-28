@@ -35,13 +35,13 @@ effective placement management.
 
 REQUIREMENT SPECIFICATION
 -------------------------
-1. Frontend
- • HTML
- • CSS
- • Javascript
-2. Backend and Database
- • PHP
- • MySql
+1. Frontend</br>
+ • HTML</br>
+ • CSS</br>
+ • Javascript</br>
+2. Backend and Database</br>
+ • PHP</br>
+ • MySql</br>
 
 NOTE
 To run the project, we need to use XAMPP server which is required to
